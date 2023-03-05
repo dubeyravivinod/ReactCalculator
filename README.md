@@ -1,20 +1,20 @@
 # React calculator Project
 React Calculator, 
 use React Features:
-[] Components -> 	
+
+### `Components`
 React apps are made out of components. 
-						|
-						   ----> Components is a piece of the UI that has its own logic and appearance. Components can be a small as a button, or as large as
-						entire page.
-[] State -> 
+Components is a piece of the UI that has its own logic and appearance. Components can be a small as a button, or as large as entire page.
+
+### `State`
 React has the concept of state, which is any data that components want to use to render
-themselves. 
-            | 
-               ---->    When the state changes, React rebuilds the UI and DOM without you have to do anything.
-                  After rebuild your UI initially in your render() method all you care about is updating the data.
-                  You don't need to worry about UI changes at all. After all, your render method/function has
-                  Already provided the blueprint of what the component should look like.
-[] Demo ->
+themselves.
+When the state changes, React rebuilds the UI and DOM without you have to do anything.
+After rebuild your UI initially in your render() method all you care about is updating the data.
+You don't need to worry about UI changes at all. After all, your render method/function has
+Already provided the blueprint of what the component should look like.
+
+### `Demo`
 https://react-calculator-mu-lac.vercel.app/
 
 # Getting Started with Create React App
